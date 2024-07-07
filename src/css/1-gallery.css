@@ -25,9 +25,14 @@
   background-color: rgb(46, 47, 66, 0.8);
 }
 
-.sl-close,
 .sl-counter,
 .sl-prev,
 .sl-next {
+  color: #fff !important;
+}
+
+.sl-wrapper button.sl-close {
+  height: 32px;
+  width: 32px;
   color: #fff;
 }
