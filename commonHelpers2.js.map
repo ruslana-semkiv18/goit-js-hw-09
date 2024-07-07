@@ -1,1 +1,1 @@
-{"version":3,"file":"commonHelpers2.js","sources":[],"sourcesContent":[],"names":[],"mappings":""}
+{"version":3,"file":"commonHelpers2.js","sources":["../src/js/2-form.js"],"sourcesContent":["const formData = {\n    email: \"\",\n    message: \"\"\n}\n\n\nconst feedbackForm = document.querySelector(\".feedback-form\");\nfeedbackForm.addEventListener(\"input\", handlerInput)"],"names":["feedbackForm"],"mappings":"oDAMA,MAAMA,EAAe,SAAS,cAAc,gBAAgB,EAC5DA,EAAa,iBAAiB,QAAS,YAAY"}
