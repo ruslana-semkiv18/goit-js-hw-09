@@ -91,10 +91,10 @@ function createList(arr) {
 
 
 
-let gallery = new SimpleLightbox('.gallery a', { 
+let gallery = new SimpleLightbox(".gallery a", { 
     captions: true,
-    captionsData: 'alt',
-    captionPosition: 'bottom',
+    captionsData: "alt",
+    captionPosition: "bottom",
     captionDelay: 250,
 });
 
